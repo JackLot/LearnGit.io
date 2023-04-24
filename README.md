@@ -14,4 +14,4 @@ Welcome to the publicly facing repository for LearnGit.io. This repository is us
 * [Feature request or content suggestion](https://github.com/JackLot/LearnGit.io/issues/new?assignees=&labels=feature+request+%2F+content+suggestion&template=feature-request-or-content-suggestion.md&title=)
 
 <br />
-<sub>Note: This repository doesn't host any code! This is on purpose. LearnGit.io is a paid content repository and resource library. Sharing source code is not possible for a mostly-static website like this because content is hosted inside the repository itself.</sub>
+<sub><sub>Note: This repository doesn't host any code! This is on purpose. LearnGit.io is a paid content repository and resource library. Sharing source code is not possible for a mostly-static website like this because content is hosted inside the repository itself.</sub></sub>
