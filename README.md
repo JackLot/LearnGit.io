@@ -6,13 +6,61 @@
   </picture>
 <p>
 
-#
+Welcome to the publicly facing repository for LearnGit.io. This repository is used to track status and feedback.
 
-Welcome to the publicly facing repository for LearnGit.io. This repository is used to triage improvements and bugs using GitHub "Issues". Please select one of the options below (you'll need a GitHub account to open issues):
+## Status
 
-* [Feature request, content suggestion, or general feedback](https://github.com/JackLot/LearnGit.io/issues/new?assignees=&labels=feature+request+%2F+content+suggestion&template=feature-request-or-content-suggestion.md&title=)
-* [Report a bug](https://github.com/JackLot/LearnGit.io/issues/new?assignees=&labels=bug&template=bug_report.md&title=%5BBUG%5D+)
+### 1. Intro & Installation*
 
+- [ ] [x] What is VC?
+- [ ] What is Git?
+- [x] Install Git
+- [ ] Git Configuration
+
+### 2. Fundamental Operations*
+
+- [ ] Core terminology
+- [ ] Creating repositories
+- [ ] Tracking Files
+- [ ] Commits
+
+### 3. Backtracking Basics
+- [ ] Backtracking Basics
+- [ ] Amend
+- [ ] Revert
+
+### 4. Branching
+- [ ] Branch Basics
+- [ ] Creating and Switching Branches
+- [ ] Feature Branch Workflow
+
+### 5. Merging & Conflicts
+- [ ] Why Merge?
+- [ ] Merging Branches?
+- [ ] Merge Conflicts
+
+### 6. Collaboration
+- [ ] Teamwork Fundamentals
+- [ ] Cloning
+- [ ] Fetching & Pushing
+- [ ] The Collaborative Workflow
+
+### 7. Manipulating Commit History
+- [ ] Cherry Pick
+- [ ] Rebase
+- [ ] Interactive Rebase
+
+### 8. Helpful Techniques
+- [ ] Stash
+- [ ] Tagging
+- [ ] Reflog
+
+
+<sub><sub>\* These modules will be included in the beta. Learning modules outside of the beta, are likely to change in composition.</sub></sub>
+
+## Feedback
+
+[Submit a feature request or content suggestion](https://github.com/JackLot/LearnGit.io/issues/new?assignees=&labels=feature+request+%2F+content+suggestion&template=feature-request-or-content-suggestion.md&title=)
 
 <br />
 <sub><sub>Note: This repository doesn't host any code! This is on purpose. LearnGit.io is a paid content repository and resource library. Sharing source code is not possible for a mostly-static website like this because content is hosted inside the repository itself.</sub></sub>
