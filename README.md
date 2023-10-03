@@ -12,9 +12,9 @@ Welcome to the publicly facing repository for LearnGit.io. This repository is us
 
 ### 1. Intro & Installation*
 
-- [ ] [x] What is VC?
+- [ ] What is VC?
 - [ ] What is Git?
-- [x] Install Git
+- [ ] Install Git
 - [ ] Git Configuration
 
 ### 2. Fundamental Operations*
@@ -56,11 +56,10 @@ Welcome to the publicly facing repository for LearnGit.io. This repository is us
 - [ ] Reflog
 
 
-<sub><sub>\* These modules will be included in the beta. Learning modules outside of the beta, are likely to change in composition.</sub></sub>
+<sub>\* These modules will be included in the beta. Learning modules outside of the beta, are likely to change in composition.</sub>
+
+<br />
 
 ## Feedback
 
 [Submit a feature request or content suggestion](https://github.com/JackLot/LearnGit.io/issues/new?assignees=&labels=feature+request+%2F+content+suggestion&template=feature-request-or-content-suggestion.md&title=)
-
-<br />
-<sub><sub>Note: This repository doesn't host any code! This is on purpose. LearnGit.io is a paid content repository and resource library. Sharing source code is not possible for a mostly-static website like this because content is hosted inside the repository itself.</sub></sub>
