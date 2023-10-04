@@ -10,7 +10,7 @@ Welcome to the publicly facing repository for LearnGit.io. This repository is us
 
 ## Status
 
-[View the project status wiki](https://github.com/JackLot/LearnGit.io/wiki/Status)
+[View the project status wiki]([https://github.com/JackLot/LearnGit.io/wiki/Status](https://github.com/JackLot/LearnGit.io/wiki/LearnGit.io-Project-Status))
 
 ## Feedback
 
