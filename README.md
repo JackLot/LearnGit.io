@@ -10,55 +10,7 @@ Welcome to the publicly facing repository for LearnGit.io. This repository is us
 
 ## Status
 
-### 1. Intro & Installation*
-
-- [ ] What is VC?
-- [ ] What is Git?
-- [ ] Install Git
-- [ ] Git Configuration
-
-### 2. Fundamental Operations*
-
-- [ ] Core terminology
-- [ ] Creating repositories
-- [ ] Tracking Files
-- [ ] Commits
-
-### 3. Backtracking Basics
-- [ ] Backtracking Basics
-- [ ] Amend
-- [ ] Revert
-
-### 4. Branching
-- [ ] Branch Basics
-- [ ] Creating and Switching Branches
-- [ ] Feature Branch Workflow
-
-### 5. Merging & Conflicts
-- [ ] Why Merge?
-- [ ] Merging Branches?
-- [ ] Merge Conflicts
-
-### 6. Collaboration
-- [ ] Teamwork Fundamentals
-- [ ] Cloning
-- [ ] Fetching & Pushing
-- [ ] The Collaborative Workflow
-
-### 7. Manipulating Commit History
-- [ ] Cherry Pick
-- [ ] Rebase
-- [ ] Interactive Rebase
-
-### 8. Helpful Techniques
-- [ ] Stash
-- [ ] Tagging
-- [ ] Reflog
-
-
-<sub>\* These modules will be included in the beta. Learning modules outside of the beta, are likely to change in composition.</sub>
-
-<br />
+[View the project status wiki](https://github.com/JackLot/LearnGit.io/wiki/Status)
 
 ## Feedback
 
