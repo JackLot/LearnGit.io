@@ -10,4 +10,4 @@ Welcome to the publicly facing repository for LearnGit.io. This repository is us
 
 ## Feedback
 
-[Submit a feature request or content suggestion](https://github.com/JackLot/LearnGit.io/issues/new?assignees=&labels=feature+request+%2F+content+suggestion&template=feature-request-or-content-suggestion.md&title=)
+[Submit a feature request, content suggestion, or bug report](https://github.com/JackLot/LearnGit.io/issues/new/choose)
