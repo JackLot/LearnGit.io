@@ -1,8 +1,8 @@
 ---
-name: Feature request, content suggestion, or general feedback
-about: Suggest an idea for this project, or content you'd like to see added
+name: Feature request
+about: Suggest an idea for this project
 title: ''
-labels: feature request / content suggestion
+labels: feature request
 assignees: ''
 
 ---
