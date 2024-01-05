@@ -6,11 +6,7 @@
   </picture>
 <p>
 
-Welcome to the publicly facing repository for LearnGit.io. This repository is used to track status and feedback.
-
-## Status
-
-[View the project status wiki](https://github.com/JackLot/LearnGit.io/wiki/Project-Status)
+Welcome to the publicly facing repository for LearnGit.io. This repository is used to track feedback and ongoing dev work.
 
 ## Feedback
 
